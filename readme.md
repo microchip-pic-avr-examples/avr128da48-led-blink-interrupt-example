@@ -27,3 +27,4 @@ This example demonstrates a simple toggling of a LED connected to the PC6 (on-bo
 
 ## Compatibility
 The source code is compatible with the following devices: AVR128DA28, AVR128DA32, AVR128DA48, and AVR128DA64.
+
