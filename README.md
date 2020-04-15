@@ -26,6 +26,15 @@ The AVR128DA48 Curiosity Nano Development Board is used as test platform
 
 The following configurations must be made for this project:
 
+TCA0:
+ - Normal mode
+ - Input clock Main Clock (4MHz) /256
+ - Overflow interrupt enabled
+ - Period 0x2000
+
+CPUINT:
+ - Global interrupt enabled
+
 |Pin           | Configuration      |
 | :----------: | :----------------: |
 |PC6 (LED0)    | Digital Output     |
