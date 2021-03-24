@@ -39,14 +39,16 @@
         "author": "Microchip",
         "subcategories": [
             [
-               "Peripherals", "TCA"
+               "Peripherals",
+			   "TCA"
             ]
         ],
         "peripherals": [
             "TCA"
         ],
         "keywords": [
-            "LED blink"
+            "LED blink",
+            "Getting Started"
         ],
 		"additionalData": {
 			"longDescription": {
